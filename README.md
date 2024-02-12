@@ -4,9 +4,6 @@
 
 Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
-Connect with me on <a href="https://www.linkedin.com/in/nhj31/" target="_blank">LinkedIn</a> to learn more about my professional background and skills. Thanks for visiting! 
-
-
 <img text-align="center" alt="Coding" width="30%" Height="30%" style="margin:auto" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NTIzNjgsIm5iZiI6MTcwNzc1MjA2OCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDE1MzQyOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxNDBjYWNlZjQ4ZDc5Y2FlYjY3NTJhYTdiOTkwMmJjZDdhM2Y1YThmYjExNTQ0MjlhNjRhZDFmMTE2YjJiYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.IAeWcIYHcZWSN77ykjBZ2hqLYoXlGKoaWTMgnytepp0"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari3199&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
@@ -89,3 +86,4 @@ Connect with me on <a href="https://www.linkedin.com/in/nhj31/" target="_blank">
 <a href="https://github.com/Hari3199"><img alt="Yawer Atique Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Hari3199&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" /></a>
 
 <br>
+Connect with me on <a href="https://www.linkedin.com/in/nhj31/" target="_blank">LinkedIn</a> to learn more about my professional background and skills. Thanks for visiting! 
