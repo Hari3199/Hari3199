@@ -6,7 +6,7 @@ Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of exper
 
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
+<img class="devloperimg" src="/static/media/devloperLogo.4ccaed63462142b961fad2ff6c869879.svg" alt="dev">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari3199&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
