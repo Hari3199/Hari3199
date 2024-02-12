@@ -7,7 +7,7 @@ Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of exper
 Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
 
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"> 
+<img align="center" alt="Coding" width="100%" style="text-align:center" src="eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDc3NTE1NzcsIm5iZiI6MTcwNzc1MTI3NywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjEyVDE1MjExN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2NGFmYjMyMzYwZjFiN2I4ZjEyOGQzN2M0NTc1ZTFkYTI3ZGNkOThiZmY3ODk0M2Q2ZTljOTZiY2JiYWVjNDImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2bfa2mMV9qmpWsbXwe3qT1RJPlI__w1FcOXvaIRjxsI"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari3199&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
 
 
