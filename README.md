@@ -4,7 +4,7 @@
 
 Hi there! I'm a full-stack web developer with over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in  MERN stack, and I'm always looking to learn and try new technologies.
 
-Connect with me on <a href="https://www.linkedin.com/in/nhj31/" target="_blank">LinkedIn</a> to learn more about my professional background and skills. Thanks for visiting! 
+Connect with me on LinkedIn to learn more about my professional background and skills. Thanks for visiting! 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hari3199&label=Profile%20views&color=00ff00&style=flat" alt="profile views" /> </p>
